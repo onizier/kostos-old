@@ -36,3 +36,6 @@
 <p>Récupération code de la VM en local</p>
 <code>vagrant rsync-back</code>
 
+<h2>Module costum Magento</h2>
+<p>Pack langue frnçaise <a href="https://github.com/Imaginaerum/magento2-language-fr-fr" target="_blank">https://github.com/Imaginaerum/magento2-language-fr-fr</a></p>
+
